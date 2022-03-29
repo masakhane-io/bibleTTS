@@ -20,9 +20,4 @@ BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any lan
 | Asante Twi   | 82.6          | 1,189         | 74.9        | 29,021      |
 | yoruba      | 93.6          | 1,189         | 33.3        | 10,228      |
 
-<img
-  align="right"
-  width="100"
-  height="100"
-  src="https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png"
->
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png">
