@@ -1,2 +1,2 @@
 # bibleTTS
-BibleTTS project website
+[BibleTTS project website](https://masakhane-io.github.io/bibleTTS/)
