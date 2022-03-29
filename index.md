@@ -1,36 +1,22 @@
 ## Welcome to Bible TTS
-You can use the [editor on GitHub](https://github.com/masakhane-io/bibleTTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Paper]() - [Github](https://github.com/masakhane-io/bibleTTS)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any language, and immediately unlocks the development of high-quality Text-to-Speech models for ten languages spoken in Sub-Saharan Africa. With up to 80 hours of single speaker, studio quality 48kHz recordings per language, we release this data under a commercial-friendly Creative Commons license.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Corpus Statistics
 
-# Header 1
-## Header 2
-### Header 3
+|              | \bf Unaligned Hours | \bf Unaligned Samples | \bf Aligned Hours | \bf Aligned Samples |
+|--------------|---------------|---------------|-------------|-------------|
+| \ewe         | 100.1         | 1,167         | 86.8        | 24,957      |
+| Hausa        | 103.2         | 1,189         | 86.6        | 40,603      |
+| Kikuyu       | 90.6          | 1,189         | --          | --          |
+| Lingala      | 151.7         | 1,189         | 71.6        | 15,117      |
+| Luganda      | 110.4         | 1,189         | --          | --          |
+| Luo          | 80.4          | 1,189         | --          | --          |
+| Chichewa     | 115.9         | 1,162         | --          | --          |
+| Akuapem Twi  | 75.7          | 1,189         | 67.1        | 28,238      |
+| Asante Twi   | 82.6          | 1,189         | 74.9        | 29,021      |
+| \yoruba      | 93.6          | 1,189         | 33.3        | 10,228      |
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masakhane-io/bibleTTS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
