@@ -7,6 +7,8 @@ BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any lan
 
 ### Corpus Statistics
 
+The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mono-channel FLAC files. Recordings for each language consist of a single speaker recorded under  professional quality, close-microphone conditions (i.e., without background noise or echo). BibleTTS is rare among public speech corpora for the volume of data available per  speaker and its suitability for creating TTS models. Furthermore, the corpus consists of ten languages which are under-represented in today’s voice technology landscape, both in academia and in industry.
+
 |              | Unaligned <br>Hours | Unaligned<br> Samples | Aligned<br> Hours | Aligned<br> Samples |
 |------|-------|------|------|------|
 | Ewe         | 100.1         | 1,167         | 86.8        | 24,957      |
