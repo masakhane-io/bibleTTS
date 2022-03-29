@@ -7,9 +7,9 @@ BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any lan
 
 ### Corpus Statistics
 
-|              | \bf Unaligned Hours | \bf Unaligned Samples | \bf Aligned Hours | \bf Aligned Samples |
+|              | Unaligned Hours | Unaligned Samples | Aligned Hours | Aligned Samples |
 |--------------|---------------|---------------|-------------|-------------|
-| \ewe         | 100.1         | 1,167         | 86.8        | 24,957      |
+| ewe         | 100.1         | 1,167         | 86.8        | 24,957      |
 | Hausa        | 103.2         | 1,189         | 86.6        | 40,603      |
 | Kikuyu       | 90.6          | 1,189         | --          | --          |
 | Lingala      | 151.7         | 1,189         | 71.6        | 15,117      |
@@ -18,5 +18,6 @@ BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any lan
 | Chichewa     | 115.9         | 1,162         | --          | --          |
 | Akuapem Twi  | 75.7          | 1,189         | 67.1        | 28,238      |
 | Asante Twi   | 82.6          | 1,189         | 74.9        | 29,021      |
-| \yoruba      | 93.6          | 1,189         | 33.3        | 10,228      |
+| yoruba      | 93.6          | 1,189         | 33.3        | 10,228      |
 
+![image](https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png)
