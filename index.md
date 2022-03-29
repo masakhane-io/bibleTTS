@@ -6,10 +6,10 @@ BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any lan
 
 
 ### Corpus Statistics
-<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png">
 
 |              | Unaligned Hours | Unaligned Samples | Aligned Hours | Aligned Samples |
-|----------|----------|--------|----------|-------|
+|------|-------|------|------|------|
 | ewe         | 100.1         | 1,167         | 86.8        | 24,957      |
 | Hausa        | 103.2         | 1,189         | 86.6        | 40,603      |
 | Kikuyu       | 90.6          | 1,189         | --          | --          |
