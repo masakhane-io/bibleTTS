@@ -6,7 +6,7 @@ BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any lan
 
 
 ### Corpus Statistics
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/36100251/160661076-37360e30-53b8-488e-8cbf-f2fce206484e.png">
 
 |              | Unaligned <br>Hours | Unaligned<br> Samples | Aligned<br> Hours | Aligned<br> Samples |
 |------|-------|------|------|------|
