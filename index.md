@@ -22,3 +22,17 @@ The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mo
 | Asante Twi   | 82.6          | 1,189         | 74.9        | 29,021      |
 | Yoruba      | 93.6          | 1,189         | 33.3        | 10,228      |
 
+### Model links and samples
+
+|              | Model checkpoint | Configuration file | In-domain sample | Out-of-domain sample | 
+|------|-------|------|------|------|
+| Ewe         | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/ewe/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |        |      | 
+| Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth.tar) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |    |    |
+| Kikuyu      | -- | -- | --          | --          |
+| Lingala     | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/config.json) |      |       |
+| Luganda     | -- | -- | --          | --          |
+| Luo         | -- | -- | --          | --          |
+| Chichewa    | -- | -- | --          | --          |
+| Akuapem Twi | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/config.json) |      |  |
+| Asante Twi  | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |    |   |
+| Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |    |  |
