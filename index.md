@@ -27,7 +27,7 @@ The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mo
 |              | Model checkpoint | Configuration file | In-domain sample | Out-of-domain sample | 
 |------|-------|------|------|------|
 | Ewe         | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/ewe/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |        |      | 
-| Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth.tar) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |    |    |
+| Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |    |    |
 | Kikuyu      | -- | -- | --          | --          |
 | Lingala     | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/config.json) |      |       |
 | Luganda     | -- | -- | --          | --          |
