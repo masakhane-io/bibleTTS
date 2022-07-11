@@ -1,13 +1,15 @@
 ## Welcome to Bible TTS
-[Paper]() - [Github](https://github.com/masakhane-io/bibleTTS)
+[Paper](https://arxiv.org/pdf/2207.03546.pdf) - [Github](https://github.com/masakhane-io/bibleTTS)
 
-BibleTTS is the largest, highest-quality open Text-to-Speech dataset for any language, and immediately unlocks the development of high-quality Text-to-Speech models for ten languages spoken in Sub-Saharan Africa. With up to 80 hours of single speaker, studio quality 48kHz recordings per language, we release this data under a commercial-friendly Creative Commons license.
+BibleTTS is a large high-quality open Text-to-Speech dataset with up to 80 hours of single speaker, studio quality 48kHz recordings for each language.
+We release aligned speech and text for six languages spoken in Sub-Saharan Africa, with unaligned data for four additional languages, derived from the [Biblica open.bible](https://open.bible/) project. 
+The data is released under a commercial-friendly [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 
 
 ### Corpus Statistics
 
-The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mono-channel FLAC files. Recordings for each language consist of a single speaker recorded under  professional quality, close-microphone conditions (i.e., without background noise or echo). BibleTTS is rare among public speech corpora for the volume of data available per  speaker and its suitability for creating TTS models. Furthermore, the corpus consists of ten languages which are under-represented in today’s voice technology landscape, both in academia and in industry.
+The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mono-channel FLAC files. Recordings for each language consist of a single speaker recorded under  professional quality, close-microphone conditions (i.e., without background noise or echo). BibleTTS is rare among public speech corpora for the volume of data available per speaker and its suitability for creating TTS models. Furthermore, the corpus consists of ten languages which are under-represented in today’s voice technology landscape, both in academia and in industry.
 
 |              | Unaligned <br>Hours | Unaligned<br> Samples | Aligned<br> Hours | Aligned<br> Samples |
 |------|-------|------|------|------|
