@@ -5,7 +5,7 @@ BibleTTS is a large high-quality open Text-to-Speech dataset with up to 80 hours
 We release aligned speech and text for six languages spoken in Sub-Saharan Africa, with unaligned data for four additional languages, derived from the [Biblica open.bible](https://open.bible/) project. 
 The data is released under a commercial-friendly [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-
+Data will be linked here imminently in the next few days!
 
 ### Corpus Statistics
 
