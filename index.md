@@ -25,11 +25,16 @@ The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mo
 | Akuapem Twi  | 75.7         | 67.1        | 28,238      |
 | Asante Twi   | 82.6         | 74.9        | 29,021      |
 | Yoruba       | 93.6         | 33.3        | 10,228      |  
+<br>
 
 
-### Model links and samples
+### TTS model links and samples
 
-|              | Model checkpoint | Configuration file | In-domain sample | Out-of-domain sample | 
+All models are end-to-end VITS speech synthesis models trained as described in the [paper](https://arxiv.org/pdf/2207.03546.pdf).  
+
+TTS samples coming soon!  
+
+|              | Model<br> checkpoint | Config file | In-domain<br> sample | Out-of-domain<br> sample | 
 |------|-------|------|------|------|
 | Ewe         | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/ewe/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |        |      | 
 | Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |    |    |
@@ -40,4 +45,5 @@ The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mo
 | Chichewa    | -- | -- | --          | --          |
 | Akuapem Twi | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/config.json) |      |  |
 | Asante Twi  | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |    |   |
-| Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |    |  |
+| Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |    |  |  
+<br>  
