@@ -7,22 +7,25 @@ The data is released under a commercial-friendly [CC-BY-SA](https://creativecomm
 
 Data will be linked here imminently in the next few days!
 
+
 ### Corpus Statistics
 
-The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mono-channel FLAC files. Recordings for each language consist of a single speaker recorded under  professional quality, close-microphone conditions (i.e., without background noise or echo). BibleTTS is rare among public speech corpora for the volume of data available per speaker and its suitability for creating TTS models. Furthermore, the corpus consists of ten languages which are under-represented in today’s voice technology landscape, both in academia and in industry.
+The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mono-channel FLAC files. Recordings for each language consist of a single speaker recorded under professional quality, close-microphone conditions (i.e., without background noise or echo). BibleTTS is rare among public speech corpora for the volume of data available per speaker and the audio quality for creating TTS models. Furthermore, the corpus consists of languages which are under-represented in today’s voice technology landscape, both in academia and in industry.  
 
-|              | Unaligned <br>Hours | Unaligned<br> Samples | Aligned<br> Hours | Aligned<br> Samples |
-|------|-------|------|------|------|
-| Ewe         | 100.1         | 1,167         | 86.8        | 24,957      |
-| Hausa        | 103.2         | 1,189         | 86.6        | 40,603      |
-| Kikuyu       | 90.6          | 1,189         | --          | --          |
-| Lingala      | 151.7         | 1,189         | 71.6        | 15,117      |
-| Luganda      | 110.4         | 1,189         | --          | --          |
-| Luo          | 80.4          | 1,189         | --          | --          |
-| Chichewa     | 115.9         | 1,162         | --          | --          |
-| Akuapem Twi  | 75.7          | 1,189         | 67.1        | 28,238      |
-| Asante Twi   | 82.6          | 1,189         | 74.9        | 29,021      |
-| Yoruba      | 93.6          | 1,189         | 33.3        | 10,228      |
+
+|              | Unaligned <br>Hours | Aligned<br> Hours | Aligned<br> Verses |
+|--------------|--------------|-------------|-------------|
+| Ewe          | 100.1        | 86.8        | 24,957      |
+| Hausa        | 103.2        | 86.6        | 40,603      |
+| Kikuyu       | 90.6         | --          | --          |
+| Lingala      | 151.7        | 71.6        | 15,117      |
+| Luganda      | 110.4        | --          | --          |
+| Luo          | 80.4         | --          | --          |
+| Chichewa     | 115.9        | --          | --          |
+| Akuapem Twi  | 75.7         | 67.1        | 28,238      |
+| Asante Twi   | 82.6         | 74.9        | 29,021      |
+| Yoruba       | 93.6         | 33.3        | 10,228      |  
+
 
 ### Model links and samples
 
