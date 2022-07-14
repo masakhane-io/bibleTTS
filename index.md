@@ -1,17 +1,16 @@
 ## Welcome to Bible TTS
-[Paper](https://arxiv.org/pdf/2207.03546.pdf) - [Github](https://github.com/masakhane-io/bibleTTS)
+[Paper](https://arxiv.org/pdf/2207.03546.pdf) - [Data](http://www.openslr.org/129/) - [Github](https://github.com/masakhane-io/bibleTTS)
 
 BibleTTS is a large high-quality open Text-to-Speech dataset with up to 80 hours of single speaker, studio quality 48kHz recordings for each language.
-We release aligned speech and text for six languages spoken in Sub-Saharan Africa, with unaligned data for four additional languages, derived from the [Biblica open.bible](https://open.bible/) project. 
+We release aligned speech and text for six languages spoken in Sub-Saharan Africa, with unaligned data available for four additional languages, derived from the [Biblica open.bible](https://open.bible/) project. 
 The data is released under a commercial-friendly [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
-
-Data will be linked here imminently in the next few days!
 
 
 ### Corpus Statistics
 
 The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mono-channel FLAC files. Recordings for each language consist of a single speaker recorded under professional quality, close-microphone conditions (i.e., without background noise or echo). BibleTTS is rare among public speech corpora for the volume of data available per speaker and the audio quality for creating TTS models. Furthermore, the corpus consists of languages which are under-represented in today’s voice technology landscape, both in academia and in industry.  
 
+Our aligned data is publicly available on [OpenSLR](http://www.openslr.org/129/).  
 
 |              | Unaligned <br>Hours | Aligned<br> Hours | Aligned<br> Verses |
 |--------------|--------------|-------------|-------------|
@@ -46,4 +45,4 @@ TTS samples coming soon!
 | Akuapem Twi | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/config.json) |      |  |
 | Asante Twi  | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |    |   |
 | Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |    |  |  
-<br>  
+<br>
