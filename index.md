@@ -57,8 +57,8 @@ TTS samples coming soon!
 
 #### Outlier detection
 
-- [Data-checker](https://github.com/coqui-ai/data-checker) code for outlier detection (Sec 4.2)
+[Data-checker](https://github.com/coqui-ai/data-checker) code for outlier detection (Sec 4.2)
 
 #### TTS model training
 
-- VITS TTS models were trained with [coqui-ai](https://github.com/coqui-ai/TTS) (Sec 5)
+VITS TTS models were trained with [coqui-ai](https://github.com/coqui-ai/TTS) (Sec 5)
