@@ -46,3 +46,19 @@ TTS samples coming soon!
 | Asante Twi  | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |    |   |
 | Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |    |  |  
 <br>
+
+### Links to code
+
+#### Alignment methodology
+
+1. [Segmentation using existing verse timestamps](https://github.com/coqui-ai/open-bible-scripts) (Sec 4.1.1)
+2. [Forced alignment using pre-trained acoustic models](https://github.com/alpoktem/bible2speechDB) (Sec 4.1.2)
+3. [Forced alignment from scratch](https://github.com/coqui-ai/open-bible-scripts) (Sec 4.1.3)
+
+#### Outlier detection
+
+- [Data-checker](https://github.com/coqui-ai/data-checker) code for outlier detection (Sec 4.2)
+
+#### TTS model training
+
+- VITS TTS models were trained with [coqui-ai](https://github.com/coqui-ai/TTS) (Sec 5)
