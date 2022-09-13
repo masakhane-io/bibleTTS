@@ -12,7 +12,7 @@ The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mo
 
 Our aligned data is publicly available on [OpenSLR](http://www.openslr.org/129/).  
 
-|              | Unaligned <br>Hours | Aligned<br> Hours | Aligned<br> Verses |
+|              | Unaligned Hours | Aligned Hours | Aligned Verses |
 |--------------|--------------|-------------|-------------|
 | Ewe          | 100.1        | 86.8        | 24,957      |
 | Hausa        | 103.2        | 86.6        | 40,603      |
@@ -33,7 +33,7 @@ All models are end-to-end VITS speech synthesis models trained as described in t
 
 TTS samples coming soon!  
 
-|              | Model<br> checkpoint | Config file | In-domain<br> sample | Out-of-domain<br> sample | 
+|              | Model checkpoint | Config file | In-domain sample | Out-of-domain sample | 
 |------|-------|------|------|------|
 | Ewe         | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/ewe/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |        |      | 
 | Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |    |    |
