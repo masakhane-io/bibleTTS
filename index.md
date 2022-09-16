@@ -26,6 +26,11 @@ Our aligned data is publicly available on [OpenSLR](http://www.openslr.org/129/)
 | Yoruba       | 93.6         | 33.3        | 10,228      |  
 <br>
 
+### Demo
+
+All trained models are integrated to Coqui TTS and can be demoed at huggingface spaces:
+
+https://huggingface.co/spaces/coqui/CoquiTTS
 
 ### TTS model links and samples
 
