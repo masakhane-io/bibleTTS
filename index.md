@@ -12,18 +12,18 @@ The BibleTTS corpus consists of high-quality audio released as 48kHz, 24-bit, mo
 
 Our aligned data is publicly available on [OpenSLR](http://www.openslr.org/129/).  
 
-|              | Unaligned Hours | Aligned Hours | Aligned Verses |
-|--------------|--------------|-------------|-------------|
-| Ewe          | 100.1        | 86.8        | 24,957      |
-| Hausa        | 103.2        | 86.6        | 40,603      |
-| Kikuyu       | 90.6         | --          | --          |
-| Lingala      | 151.7        | 71.6        | 15,117      |
-| Luganda      | 110.4        | --          | --          |
-| Luo          | 80.4         | --          | --          |
-| Chichewa     | 115.9        | --          | --          |
-| Akuapem Twi  | 75.7         | 67.1        | 28,238      |
-| Asante Twi   | 82.6         | 74.9        | 29,021      |
-| Yoruba       | 93.6         | 33.3        | 10,228      |  
+|              | Unaligned Hours | Aligned Hours | Aligned Verses | Sample |
+|--------------|--------------|-------------|-------------|------------|
+| Ewe          | 100.1        | 86.8        | 24,957      | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/original/ewe.flac) |
+| Hausa        | 103.2        | 86.6        | 40,603      | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/original/hau.flac) |
+| Kikuyu       | 90.6         | --          | --          | -- |
+| Lingala      | 151.7        | 71.6        | 15,117      | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/original/lin.flac) |
+| Luganda      | 110.4        | --          | --          | -- |
+| Luo          | 80.4         | --          | --          | -- |
+| Chichewa     | 115.9        | --          | --          | -- |
+| Akuapem Twi  | 75.7         | 67.1        | 28,238      | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/original/twi-aku.flac) |
+| Asante Twi   | 82.6         | 74.9        | 29,021      | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/original/twi-asa.flac) |
+| Yoruba       | 93.6         | 33.3        | 10,228      | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/original/yor.flac) |  
 <br>
 
 ### Demo
@@ -40,16 +40,16 @@ TTS samples coming soon!
 
 |              | Model checkpoint | Config file | In-domain sample | Out-of-domain sample | 
 |------|-------|------|------|------|
-| Ewe         | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/ewe/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |        |      | 
-| Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |    |    |
+| Ewe         | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/ewe/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |   [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/in-domain/ewe-sent1.wav)     |  [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/out-of-domain/ewe-sent1.wav)    | 
+| Hausa       | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/hausa/config.json) |  [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/in-domain/hau-sent1.wav)  |  [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/out-of-domain/hau-sent1.wav)  |
 | Kikuyu      | -- | -- | --          | --          |
-| Lingala     | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/config.json) |      |       |
+| Lingala     | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/lingala/config.json) |   [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/in-domain/lin-sent1.wav)   |   [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/out-of-domain/lin-sent1.wav)    |
 | Luganda     | -- | -- | --          | --          |
 | Luo         | -- | -- | --          | --          |
 | Chichewa    | -- | -- | --          | --          |
-| Akuapem Twi | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/config.json) |      |  |
-| Asante Twi  | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |    |   |
-| Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |    |  |  
+| Akuapem Twi | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/akuapem-twi/config.json) |   [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/in-domain/twi-aku-sent1.wav)   | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/out-of-domain/twi-aku-sent1.wav) |
+| Asante Twi  | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/asante-twi/config.json) |  [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/in-domain/twi-asa-sent1.wav)  | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/out-of-domain/twi-asa-sent1.wav)  |
+| Yoruba      | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/checkpoint_1100000.pth) | [link](https://coqui-ai-public-models.s3.amazonaws.com/OpenBible/yoruba/config.json) |  [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/in-domain/yor-sent1.wav)  | [listen](https://raw.githubusercontent.com/masakhane-io/bibleTTS/gh-pages/samples/out-of-domain/yor-sent1.wav) |  
 <br>
 
 ### Links to code
